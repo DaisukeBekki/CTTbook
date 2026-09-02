@@ -60,8 +60,7 @@ This repository distributes the manuscript as one PDF per chapter.
 | [CTTbookChapter02.pdf](CTTbookChapter02.pdf) | Chapter 2 | Path Types |  |  |  |
 | [CTTbookChapter03.pdf](CTTbookChapter03.pdf) | Chapter 3 | Systems, Composition, and Transport |  |  |  |
 | [CTTbookChapter04.pdf](CTTbookChapter04.pdf) | Chapter 4 | Higher Inductive Types |  |  |  |
-| [CTTbookChapter05.pdf](CTTbookChapter05.pdf) | Chapter 5 | The Integers as a Higher Inductive Type |  |  |  |
-| [CTTbookChapter06.pdf](CTTbookChapter06.pdf) | Chapter 6 | Glue Types and Univalence |  |  |  |
+| [CTTbookChapter05.pdf](CTTbookChapter05.pdf) | Chapter 5 | Glue Types and Univalence |  |  |  |
 
 Status: **EN** = fully in English / `trans-para` applied; **PR** = `proofread-en` applied. ☑ done, ☐ tracked-but-pending, blank = not yet examined. **Notes** = open issues found while reviewing (e.g. a proof still to fix).
 
