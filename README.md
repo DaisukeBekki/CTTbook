@@ -62,5 +62,5 @@ This repository distributes the manuscript as one PDF per chapter.
 | [CTTbookChapter04.pdf](CTTbookChapter04.pdf) | Chapter 4 | Higher Inductive Types |  |  |  |
 | [CTTbookChapter05.pdf](CTTbookChapter05.pdf) | Chapter 5 | Glue Types and Univalence |  |  |  |
 
-Status: **EN** = fully in English / `trans-para` applied; **PR** = `proofread-en` applied. ☑ done, ☐ tracked-but-pending, blank = not yet examined. **Notes** = open issues found while reviewing (e.g. a proof still to fix).
+Status: **EN** = fully in English (translated with `trans-para`, or written in English); **PR** = `proofread-en` applied. ☑ done, ☐ tracked-but-pending, blank = not yet examined. **Notes** = open issues found while reviewing (e.g. a proof still to fix).
 
